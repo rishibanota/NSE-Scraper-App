@@ -27,6 +27,6 @@ If you find any bugs or have any issues, please email me at [rishibanota837@gmai
 
 ## Screenshots
 
-![Screenshot 1](Screenshot_20251022-170758~2.png)
-![Screenshot 2](Screenshot_20251022-170803~2.png)
-![Screenshot 3](Screenshot_20251022-170811~2.png)
+![Screenshot 1](Screenshot_20260103-213454~2.png)
+![Screenshot 2](Screenshot_20260103-213501~2.png)
+![Screenshot 3](Screenshot_20260103-213544~2.png)
